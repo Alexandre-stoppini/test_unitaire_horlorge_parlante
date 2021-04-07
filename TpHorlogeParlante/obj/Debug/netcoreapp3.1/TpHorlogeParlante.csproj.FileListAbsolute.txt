@@ -1,0 +1,13 @@
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\bin\Debug\netcoreapp3.1\TpHorlogeParlante.exe
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\bin\Debug\netcoreapp3.1\TpHorlogeParlante.deps.json
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\bin\Debug\netcoreapp3.1\TpHorlogeParlante.runtimeconfig.json
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\bin\Debug\netcoreapp3.1\TpHorlogeParlante.runtimeconfig.dev.json
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\bin\Debug\netcoreapp3.1\TpHorlogeParlante.dll
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\bin\Debug\netcoreapp3.1\TpHorlogeParlante.pdb
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\obj\Debug\netcoreapp3.1\TpHorlogeParlante.csprojAssemblyReference.cache
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\obj\Debug\netcoreapp3.1\TpHorlogeParlante.AssemblyInfoInputs.cache
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\obj\Debug\netcoreapp3.1\TpHorlogeParlante.AssemblyInfo.cs
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\obj\Debug\netcoreapp3.1\TpHorlogeParlante.csproj.CoreCompileInputs.cache
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\obj\Debug\netcoreapp3.1\TpHorlogeParlante.dll
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\obj\Debug\netcoreapp3.1\TpHorlogeParlante.pdb
+C:\Users\stopp\RiderProjects\TpHorlogeParlante\TpHorlogeParlante\obj\Debug\netcoreapp3.1\TpHorlogeParlante.genruntimeconfig.cache
